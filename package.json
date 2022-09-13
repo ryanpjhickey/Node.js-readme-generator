@@ -1,10 +1,7 @@
 {
-  "dependencies": {
-    "inquirer": "^8.2.4"
-  },
   "name": "node9challenge",
-  "description": "[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)",
   "version": "1.0.0",
+  "description": "Work with a partner to implement the following user story:",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/ryanpjhickey/Node9Challenge/issues"
   },
-  "homepage": "https://github.com/ryanpjhickey/Node9Challenge#readme"
+  "homepage": "https://github.com/ryanpjhickey/Node9Challenge#readme",
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
 }
