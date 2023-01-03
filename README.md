@@ -1,5 +1,3 @@
-https://youtu.be/CUtf6SFoX58
-
 # Node.js readme generator
 
 ## Table of Contents
@@ -7,7 +5,6 @@ https://youtu.be/CUtf6SFoX58
 - [Description](#Description)
 - [Link](#Link)
 - [Technologies](#Technologies)
-- [User Instructions](#User-Instructions)
 - [Contributors](#Contributors)
 - [Quesitons](#Questions)
 
@@ -16,6 +13,12 @@ https://youtu.be/CUtf6SFoX58
 ## Description
 
 This application allows users to create a readme for their github projects.
+
+---
+
+## Link
+
+Video demonstrating usage: https://youtu.be/CUtf6SFoX58
 
 ---
 
